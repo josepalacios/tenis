@@ -1,0 +1,21 @@
+# Logfile created on 2019-01-24 18:16:39 -0300 by logger.rb/53141
+D, [2019-01-24T18:16:39.683947 #4171] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:19:30.053623 #4186] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:21:33.254639 #4201] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:24:43.439156 #4218] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:25:53.123217 #4237] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:26:59.620662 #4451] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:27:36.703380 #4469] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:27:57.619325 #4475] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:28:10.500890 #4480] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:28:10.515637 #4480] DEBUG -- : REQUESTING PAGE: POST / with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-01-24T18:28:47.290198 #4489] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:28:47.301464 #4489] DEBUG -- : REQUESTING PAGE: POST / with {"puntoA"=>"A"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-01-24T18:38:37.905749 #4502] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:38:37.921505 #4502] DEBUG -- : REQUESTING PAGE: GET /puntoA with {"puntoA"=>"A"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-01-24T18:39:31.751983 #4509] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:39:31.795202 #4509] DEBUG -- : REQUESTING PAGE: GET /puntoA with {"puntoA"=>"A"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-01-24T18:40:11.013060 #4515] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:40:11.027008 #4515] DEBUG -- : REQUESTING PAGE: GET /puntoA with {"puntoA"=>"A"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-01-24T18:40:33.168392 #4521] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-01-24T18:40:33.178787 #4521] DEBUG -- : REQUESTING PAGE: GET /puntoA with {"puntoA"=>"A"} and HTTP headers {"HTTP_REFERER"=>"/"}
